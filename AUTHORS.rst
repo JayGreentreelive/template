@@ -1,7 +1,8 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Jay Greentree
+* Barry Clegg
+* Kathryn Thacker
 
 
